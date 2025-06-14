@@ -21,12 +21,13 @@ This is a simple React app that shows how to work with the [Reqres.in](https://r
 ### Steps
 
 1. **Clone this repository:**
+
    ```sh
    git clone https://github.com/MazenGalal2/reqres-task.git
-   cd reqres-api-test
    ```
 
 2. **Install the dependencies:**
+
    ```sh
    npm install
    # or
@@ -34,6 +35,7 @@ This is a simple React app that shows how to work with the [Reqres.in](https://r
    ```
 
 3. **Start the app:**
+
    ```sh
    npm start
    # or
@@ -44,3 +46,18 @@ This is a simple React app that shows how to work with the [Reqres.in](https://r
    ```
    http://localhost:3000
    ```
+5. **Languages,Frameworks/Libraries and Other Tools**
+   ```
+   Languages:
+             TypeScript (your React components use TypeScript syntax)
+             JavaScript (since React and the browser run JavaScript)
+    Frameworks/Libraries:
+           React (for building the user interface)
+           Axios (for making HTTP requests)
+           Tailwind CSS (for styling the UI)
+    Other Tools:
+           Node.js (runtime for running and building the app)
+           npm or yarn (for managing dependencies)
+           Reqres.in (public API used for testing)
+
+```
